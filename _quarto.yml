@@ -5,11 +5,12 @@ website:
   title: "GitClub"
   navbar:
     right:
-      - about.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+      - stepone.qmd
+      - steptwo.qmd
+      - stepthree.qmd
+      - stepfour.qmd
+  page-footer: 
+    left: "Web Development: Utilizing Quarto To Create A Website"
 format:
   html:
     theme: solar

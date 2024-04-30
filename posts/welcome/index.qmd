@@ -1,12 +1,10 @@
 ---
-title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+title: "Eco-Anxiety"
+author: ""
 date: "2024-04-27"
-categories: [news]
+image: "/pictures/mentalhealthnature.jpg"
 ---
 
-This is the first post in a Quarto blog. Welcome!
+![This is an image of people interacting with Mother Nature.](/pictures/mentalhealthnature.jpg)
 
-![](thumbnail.jpg)
-
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+Eco-anxiety is a widely new term that is being used to describe the worry that people feel after hearing of environmental tragedies. This worry can often lead to panic attacks, sleeplessness, loss of appetite, and many more symptoms of anxiety. Before becoming aware of the science of how we have gotten to where we are, I would say I suffered from eco-anxiety. Now that I have learned further about the causes of many environmental tragedies, I have learned to accept and adapt to the changes in the environment. Although a single person cannot reverse climate change, I would say, doing my part to prevent further damage, has been fulfilling. I would encourage you all to do your research and take some action by using less water, avoiding single-use plastics, saving energy, and much more. While doing so, please inspire your friends and family to do their part as well.

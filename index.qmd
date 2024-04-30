@@ -1,5 +1,41 @@
 ---
 title: "GitClub"
 page-layout: full
-title-block-banner: true
+title-block-banner: pictures/construction.jpg
 ---
+
+This blog is intended to create awareness of environmental topics that can be relevant to various fields such as ecology, psychology, data science, etc.
+
+Topics in this blog include, recycling, ecopsychology, and water pollution.
+
+![](pictures/Picture15.jpg){width="447"}
+
+In order to successfully illustrate such topics and their related fields, you must know how to follow the steps below:
+
+# Web Development: Utilizing Quarto To Create A Website
+
+### Step 1: Download Quarto
+
+Download it here:
+
+### Step 2: Create a New Project in RStudio
+
+-   Click "Create a Project" in the top left corner
+
+-   Click "New Directory"
+
+-   Choose either "Quarto Website" or "Quarto Blog"
+
+-   Check the box to create a Git Repository
+
+### Step 3: What's Next?
+
+Now that you have a website created, there are a few more steps that must be taken.
+
+-   Folders: What do the different folders mean?
+
+-   YML: How to style your website.
+
+-   Pages: How to design a web page.
+
+-   Blog: How to create a blog!

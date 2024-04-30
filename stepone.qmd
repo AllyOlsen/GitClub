@@ -1,4 +1,21 @@
 ---
-title: "Step One"
-
+title: "Files"
 ---
+
+### What does each file mean?
+
+#### \_quarto.yml
+
+This codes for the website as a whole, establishing overarching characteristics, such as the theme of the website.
+
+#### index.qmd
+
+This file codes for the home page of the website, allowing you to include graphics and text related to your website's theme.
+
+#### posts
+
+This folder contains files that contain the individual folders, files, and pictures for our blog posts. Our blog posts focus on the environment and awareness of environmental topics that face our planet today.
+
+##### index.qmd
+
+The posts file has individual folders that each contain an index file and any images included in the post. Each file codes for individual blog post pages.

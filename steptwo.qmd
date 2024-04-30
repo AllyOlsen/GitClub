@@ -1,3 +1,13 @@
 ---
-title: ""
+title: "YML"
 ---
+
+### What is a YML File?
+
+The YML file codes for overall characteristics of the website. This includes the title, navigation bar, banners, cookies, and the format.
+
+![](pictures/ymlpic.png)
+
+Under "Format" you can pick the theme of your website. This provides a useful tool that aids in the communication of data science topics. By choosing a theme that aligns with your topic, you can further visualize your purpose.
+
+You can add a banner to your website of an image that aligns with your theme. We chose to include an image of the clash between construction and nature to highlight the impacts of deforestation.

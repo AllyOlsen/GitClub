@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "GitClub",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 30, 2024\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 27, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "This blog is intended to create awareness of environmental topics that can be relevant to various fields such as ecology, psychology, data science, etc.\nTopics in this blog include, recycling, ecopsychology, and water pollution.\n\nIn order to successfully illustrate such topics and their related fields, you must know how to follow the steps below:\n\nWeb Development: Utilizing Quarto To Create A Website\n\nStep 1: Download Quarto\nDownload it here:\n\n\nStep 2: Create a New Project in RStudio\n\nClick “Create a Project” in the top left corner\nClick “New Directory”\nChoose either “Quarto Website” or “Quarto Blog”\nCheck the box to create a Git Repository\n\n\n\nStep 3: What’s Next?\nNow that you have a website created, there are a few more steps that must be taken.\n\nFolders: What do the different folders mean?\nYML: How to style your website.\nPages: How to design a web page.\nBlog: How to create a blog!"
   },
   {
     "objectID": "posts/post-with-code/index.html",
@@ -23,15 +23,36 @@
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "title": "Eco-Anxiety",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "This is an image of people interacting with Mother Nature.\n\n\nEco-anxiety is a widely new term that is being used to describe the worry that people feel after hearing of environmental tragedies. This worry can often lead to panic attacks, sleeplessness, loss of appetite, and many more symptoms of anxiety. Before becoming aware of the science of how we have gotten to where we are, I would say I suffered from eco-anxiety. Now that I have learned further about the causes of many environmental tragedies, I have learned to accept and adapt to the changes in the environment. Although a single person cannot reverse climate change, I would say, doing my part to prevent further damage, has been fulfilling. I would encourage you all to do your research and take some action by using less water, avoiding single-use plastics, saving energy, and much more. While doing so, please inspire your friends and family to do their part as well."
   },
   {
     "objectID": "stepfour.html",
     "href": "stepfour.html",
-    "title": "GitClub",
+    "title": "Blog",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nApr 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nApr 27, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Here is our blog. Check out our first post below to learn more about eco-anxiety. On any page that contains blog posts it is important to include a “listing” category in the page’s yml.\nFor this page, the yml looks like this:\n\n# listing:\n#  contents: posts\n#  fields: [image, date, title, author, description]\n#  sort: \"date desc\"\n#  type: grid\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEco-Anxiety\n\n\n\n\n\n\n\n\n\nApr 27, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "stepone.html",
+    "href": "stepone.html",
+    "title": "Files",
+    "section": "",
+    "text": "What does each file mean?\n\n_quarto.yml\nThis codes for the website as a whole, establishing overarching characteristics, such as the theme of the website.\n\n\nindex.qmd\nThis file codes for the home page of the website, allowing you to include graphics and text related to your website’s theme.\n\n\nposts\nThis folder contains files that contain the individual folders, files, and pictures for our blog posts. Our blog posts focus on the environment and awareness of environmental topics that face our planet today.\n\nindex.qmd\nThe posts file has individual folders that each contain an index file and any images included in the post. Each file codes for individual blog post pages."
+  },
+  {
+    "objectID": "steptwo.html",
+    "href": "steptwo.html",
+    "title": "YML",
+    "section": "",
+    "text": "What is a YML File?\nThe YML file codes for overall characteristics of the website. This includes the title, navigation bar, banners, cookies, and the format.\n\nUnder “Format” you can pick the theme of your website. This provides a useful tool that aids in the communication of data science topics. By choosing a theme that aligns with your topic, you can further visualize your purpose.\nYou can add a banner to your website of an image that aligns with your theme. We chose to include an image of the clash between construction and nature to highlight the impacts of deforestation."
+  },
+  {
+    "objectID": "stepthree.html",
+    "href": "stepthree.html",
+    "title": "WebPages",
+    "section": "",
+    "text": "How can we use websites for data science communication?\n\nData visualization\n\ngraphs\ncharts\nmodels\nplots\n\nNo language barrier to data and universal mathematics\n\nThe benefits of data science communication can incorporate a deeper insight of an otherwise complicated explanation of an analysis, so through visualization data science can help the viewer/reader understand clearly and precisely.\n\n\n\nThis is a picture from the Lorax film (2012) by illumination entertainment. The Lorax is a story that uses deforestation and pollution to show how these can negatively impact the environment and its ecosystems.\n\n\n\n\n\nThis is an image of the universal symbol for recycling. Reduce, reuse, and recycle are the three fundamental steps to a more sustainable lifestyle.\n\n\n\n\n\nThis is a picture of a dead seagull that had met its end due to consuming too much plastic either from trash or fish who also consumed plastics."
   }
 ]

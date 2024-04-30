@@ -1,8 +1,20 @@
 ---
-title: ""
+title: "Blog"
 listing:
   contents: posts
   fields: [image, date, title, author, description]
   sort: "date desc"
   type: grid
 ---
+
+Here is our blog. Check out our first post below to learn more about eco-anxiety. On any page that contains blog posts it is important to include a "listing" category in the page's yml.
+
+For this page, the yml looks like this:
+
+```{r}
+# listing:
+#  contents: posts
+#  fields: [image, date, title, author, description]
+#  sort: "date desc"
+#  type: grid
+```

@@ -1,3 +1,25 @@
 ---
-title: ""
+title: "WebPages"
 ---
+
+### How can we use websites for data science communication? 
+
+-   Data visualization
+
+    -   graphs
+
+    -   charts
+
+    -   models
+
+    -   plots
+
+-   No language barrier to data and universal mathematics
+
+The benefits of data science communication can incorporate a deeper insight of an otherwise complicated explanation of an analysis, so through visualization data science can help the viewer/reader understand clearly and precisely.
+
+![This is a picture from the Lorax film (2012) by illumination entertainment. The Lorax is a story that uses deforestation and pollution to show how these can negatively impact the environment and its ecosystems.](pictures/lorax.jpg)
+
+![This is an image of the universal symbol for recycling. Reduce, reuse, and recycle are the three fundamental steps to a more sustainable lifestyle.](pictures/reducereuserecycle.png)
+
+![This is a picture of a dead seagull that had met its end due to consuming too much plastic either from trash or fish who also consumed plastics.](pictures/seagull.jpg)
