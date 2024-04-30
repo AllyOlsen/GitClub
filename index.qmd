@@ -28,6 +28,12 @@ Download it here:
 
 -   Check the box to create a Git Repository
 
+    -   If it does not initially create a repository, you may have to type this into the console to link your GitHub account and create a repository:
+
+        ```         
+        usethis::use_github()
+        ```
+
 ### Step 3: What's Next?
 
 Now that you have a website created, there are a few more steps that must be taken.
