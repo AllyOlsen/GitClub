@@ -2,6 +2,7 @@
 title: "GitClub"
 page-layout: full
 title-block-banner: pictures/construction.jpg
+engine: knitr
 ---
 
 This blog is intended to create awareness of environmental topics that can be relevant to various fields such as ecology, psychology, data science, etc.
